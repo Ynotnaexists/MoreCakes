@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "#c#",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:carrot"
+    },
+    "c": {
+      "item": "minecraft:cake"
+    }
+  },
+  "result": {
+    "id": "morecakes:carrot_cake",
+    "count": 1
+  }
+}
